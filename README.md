@@ -4,3 +4,5 @@
 
 # OptiMaL PSE Coding Workshop
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+Created by Damien Van de Berg and Tom Savage 
