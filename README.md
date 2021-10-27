@@ -4,5 +4,10 @@
 
 # OptiMaL PSE Coding Workshop
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+## Key
+
+## Problems
+ - Week 1 [problem](week_1/description.md), and [solution](week_1/solution.md)
+
 
 Created by Damien Van de Berg and Tom Savage 
