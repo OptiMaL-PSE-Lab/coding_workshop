@@ -1,9 +1,10 @@
 <a href="https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/about-us/">
-<img src="https://avatars.githubusercontent.com/u/81195336?s=200&v=4" alt="Optimal PSE logo" title="OptimalPSE" align="right" height="150" />
+<img src="https://avatars.githubusercontent.com/u/81195336?s=200&v=4" alt="Optimal PSE logo" title="OptimalPSE" align="right" height="200" />
 </a>
 
-# OptiMaL PSE Coding Workshop
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+# OptiMaL PSE Coding Workshop [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
  
 | Difficulty | Domain |
 |---|---|
@@ -15,4 +16,4 @@
  - Week 1 [problem](week_1/description.md), and [solution](week_1/solution.md) 🟢 🧮
 
 
-Created by Damien Van de Berg and Tom Savage 
+_Created by Damien Van de Berg and Tom Savage_
