@@ -7,9 +7,9 @@
  
 | Difficulty | Domain |
 |---|---|
-| :green_circle: Easy | :abacus: Maths |
-| :orange_circle: Medium  | :computer: Computer Science |
-| :red_circle: Hard  | :microscope: Engineering |
+| 🟢 Easy | 🧮 Maths |
+| 🟠 Medium  | 💻 Computer Science |
+| 🔴 Hard  | 🔬 Engineering |
 
 ## Problems
  - Week 1 [problem](week_1/description.md), and [solution](week_1/solution.md) 🟢 🧮
