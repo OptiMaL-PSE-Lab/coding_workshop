@@ -4,4 +4,4 @@ The text file, [keylog.txt](week_1/keylog.txt), contains fifty successful login 
 
 Given that the three characters are always asked for in order, analyse the file so as to determine the shortest possible secret passcode of unknown length.
 
-_The previous problem is taken from [Project Euler.](https://projecteuler.net/problem=79)_
+_This problem is taken from [Project Euler.](https://projecteuler.net/problem=79)_
