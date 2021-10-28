@@ -13,8 +13,8 @@
 | 🔴 Hard  | 🔬 Engineering |
 
 ## Problems
- - Week 1 [problem](week_1/description.md), and [solution](week_2/solution.md) 🟢 🧮
- - Week 2 [problem](week_2/description.md), and [solution](week_1/solution.md) 🟠 💻
+ - Week 1 [problem](week_1/description.md), and [solution](week_1/solution.md) 🟢 🧮
+ - Week 2 [problem](week_2/description.md), and [solution](week_2/solution.md) 🟠 💻
 
 
 _Created by Damien Van de Berg and Tom Savage_
