@@ -16,11 +16,11 @@
 
  - Week 1 
  	- [Coding problem](problems/problem_1/description.md), and [solution](problems/problem_1/solution.md) 🟢 🧮
-	- [Algorithm of the week](algorithms/algorithm_1/description.md) :green_circle: :microscope:
+	- [Algorithm of the week](algorithms/algorithm_1/description.md) 🟢 🔬
 
  - Week 2 
  	- [Coding problem](problems/problem_2/description.md), and [solution](problems/problem_2/solution.md) 🟠 💻
-	- [Algorithm of the week](algorithms/algorithm_2/description.md) :green_circle: :abacus:
+	- [Algorithm of the week](algorithms/algorithm_2/description.md) 🟢 🧮
 
 
 _Created by Damien Van de Berg and Tom Savage_
