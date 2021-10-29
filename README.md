@@ -12,9 +12,15 @@
 | 🟠 Medium  | 💻 Computer Science |
 | 🔴 Hard  | 🔬 Engineering |
 
-## Problems
- - Week 1 [problem](week_1/description.md), and [solution](week_1/solution.md) 🟢 🧮
- - Week 2 [problem](week_2/description.md), and [solution](week_2/solution.md) 🟠 💻
+---
+
+ - Week 1 
+ 	- [Coding problem](problems/problem_1/description.md), and [solution](problems/problem_1/solution.md) 🟢 🧮
+	- [Algorithm of the week](algorithms/algorithm_1/description.md) :green_circle: :microscope:
+
+ - Week 2 
+ 	- [Coding problem](problems/problem_2/description.md), and [solution](problems/problem_2/solution.md) 🟠 💻
+	- [Algorithm of the week](algorithms/algorithm_2/description.md) :green_circle: :abacus:
 
 
 _Created by Damien Van de Berg and Tom Savage_
