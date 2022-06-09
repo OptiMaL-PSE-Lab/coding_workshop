@@ -23,4 +23,4 @@
 	- [Algorithm of the week](algorithms/algorithm_2/description.md) 🟢 🧮
 
 
-_Created by Damien Van de Berg and Tom Savage_ and Antonio
+_Created by Damien Van de Berg and Tom Savage_ and Ilya Sandoval
